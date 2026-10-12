@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Analytics System (SPAS)",
+  "description": "Desktop Java & JavaFX Academic Analytics System for tracking student performance, marks, attendance, alerts, reports, and data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
